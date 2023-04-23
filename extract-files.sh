@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=xz2c
+export DEVICE=xz2c_dcm
 export DEVICE_COMMON=tama-common
 export VENDOR=sony
 
