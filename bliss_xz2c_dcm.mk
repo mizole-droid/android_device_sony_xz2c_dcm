@@ -5,16 +5,16 @@
 #
 
 # Inherit from xz2c device
-$(call inherit-product, device/sony/xz2c/device.mk)
+$(call inherit-product, device/sony/xz2c_dcm/device.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
-PRODUCT_NAME := bliss_xz2c
-PRODUCT_DEVICE := xz2c
+PRODUCT_NAME := bliss_xz2c_dcm
+PRODUCT_DEVICE := xz2c_dcm
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := Xperia XZ2 Compact
+PRODUCT_MODEL := Xperia XZ2 Compact(Docomo)
 
 PRODUCT_GMS_CLIENTID_BASE := android-sony
 

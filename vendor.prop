@@ -1,5 +1,5 @@
 # Bluetooth
-bluetooth.device.default_name=Xperia XZ2 Compact
+bluetooth.device.default_name=Xperia XZ2 Compact(DOCOMO)
 
 # Display postprocessing
 vendor.display.enable_default_color_mode=1
