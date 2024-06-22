@@ -8,9 +8,9 @@
 $(call inherit-product, device/sony/xz2c_dcm/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/bliss/config/common_full_phone.mk)
+$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := bliss_xz2c_dcm
+PRODUCT_NAME := lineage_xz2c_dcm
 PRODUCT_DEVICE := xz2c_dcm
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_BRAND := Sony

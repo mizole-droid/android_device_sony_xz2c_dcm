@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_xz2c_dcm.mk
+    $(LOCAL_DIR)/lineage_xz2c_dcm.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_xz2c_dcm-user \
-    bliss_xz2c_dcm-userdebug \
-    bliss_xz2c_dcm-eng
+    lineage_xz2c_dcm-user \
+    lineage_xz2c_dcm-userdebug \
+    lineage_xz2c_dcm-eng
